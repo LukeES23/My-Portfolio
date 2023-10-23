@@ -28,20 +28,20 @@ body {
 
 /* Header stylised*/
 .header {
-  width: 68.5rem; 
-  height: 8.875rem; 
-  background: #FF0404;
+    width: 68.5rem; 
+    height: 8.875rem; 
+    background: #FF0404;
 }
 
 /* h1 stylised*/
 h1 {
-   width: 57.625rem; 
-  height: 6.25rem;
-  text-align: center; 
-  color: #F8FD11; 
-  font-size: 4rem; 
-  font-family: Inter; 
-  font-style: italic; 
-  font-weight: 700; 
-  word-wrap: break-word;
+    width: 57.625rem; 
+    height: 6.25rem;
+    text-align: center; 
+    color: #F8FD11; 
+    font-size: 4rem; 
+    font-family: Inter; 
+    font-style: italic; 
+    font-weight: 700; 
+    word-wrap: break-word;
 }
