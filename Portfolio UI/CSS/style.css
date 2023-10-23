@@ -1,3 +1,27 @@
 body {
   font-size: 1.5rem;
 }
+
+/* Style the map container */
+#weather-map {
+   width: 100%;
+   height: 25rem; /* Set the desired height*/
+   border: 0.125rem solid #333;
+}
+
+/* Style all markers*/
+.leaflet-marker-icon {
+    background-color: #077BFF;
+    color: #FFF;
+}
+
+/* Style popup content*/
+.leaflet-popup-content {
+    background-color: #FFF;
+    color: #333;
+}
+
+/* Style a specific marker*/
+.custom-marker {
+    background-color: #FF5733;
+}
