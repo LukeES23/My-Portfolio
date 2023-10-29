@@ -44,4 +44,53 @@ h1 {
     font-style: italic; 
     font-weight: 700; 
     word-wrap: break-word;
+    line-height: normal;
 }
+
+/* h2 stylised*/
+h2 {
+  width: 23.375rem;
+  height: 0.9375rem;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 1.25rem;
+  font-style: italic;
+  line-height: normal;
+}
+
+/* subheader stylised*/
+.subheader {
+  width: 68.5rem;
+  height: 6.0625rem;
+  background: #041DFD;
+}
+
+/* links stylised*/
+.links {
+  width: 11.25rem;
+  height: 1.375rem;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 1.25rem;
+  font-style: italic;
+  font-weight: 700;
+  line-height: normal;
+}
+
+/* main body stylised*/
+.main {
+  width: 68.5rem;
+height: 42.25rem;
+}
+
+/* Personal profile setion styised*/
+
+/* Education section stylised*/
+
+/* Additional certificates section stylised*/
+
+/* Projects section stylised*/
+
+/* Footer stylised*/
