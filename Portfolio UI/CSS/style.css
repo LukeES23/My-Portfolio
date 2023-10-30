@@ -82,15 +82,73 @@ h2 {
 /* main body stylised*/
 .main {
   width: 68.5rem;
-height: 42.25rem;
+  height: 42.25rem;
 }
 
 /* Personal profile setion styised*/
+.personalprofile {
+  width: 22.25rem;
+  height: 16.4375rem;
+  fill: #1CCCF2;
+  color: #000;
+  font-family: Inter;
+  font-size: 0.9375rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
 
 /* Education section stylised*/
+.education {
+  width: 11.1875rem;
+  height: 10.4375rem;
+  background: #E7D431;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
 
 /* Additional certificates section stylised*/
+.certificates{
+  width: 15rem;
+  height: 13.5rem;
+  background: #fce303;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
 
 /* Projects section stylised*/
+.projects{
+  width: 22.25rem;
+  height: 11.25rem;
+  background: #49F0FB;
+  color: #000;
+  font-family: Inter;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
 
 /* Footer stylised*/
+.footer{
+  width: 62.75rem;
+  height: 6.5rem;
+  background: #0226A6;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
