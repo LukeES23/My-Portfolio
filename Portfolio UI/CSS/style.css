@@ -67,7 +67,7 @@ h2 {
 }
 
 /* links stylised*/
-.links {
+.myLinks {
   width: 11.25rem;
   height: 1.375rem;
   color: #000;
@@ -80,9 +80,35 @@ h2 {
 }
 
 /* main body stylised*/
-.main {
+main {
   width: 68.5rem;
   height: 42.25rem;
+}
+
+/* grids stylised*/
+.grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0; /* Set desired background colour */
+  padding: 20px;
+}
+
+/* Styling the weather map container*/
+.weatherforecastgrid {
+  border: 2px solid #000; /* Add a border for visual appeal */
+  border-radius: 10px; /* Round the corners */
+  overflow: hidden; /* Hide overflowing content */
+}
+
+/* Styling the weather map itself (adjust the size as needed) */
+.weather-map{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  background-color: #ccc;
 }
 
 /* Personal profile setion styised*/
